@@ -1,0 +1,19 @@
+{
+  "name": "vue-routing-sample",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kazupon/vue-routing-sample.git"
+  },
+  "dependencies": {
+    "component": "^0.19.7"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.10.26"
+  }
+}
+
